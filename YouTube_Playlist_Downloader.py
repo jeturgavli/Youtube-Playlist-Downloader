@@ -55,7 +55,8 @@ def chunk_list(lst, chunk_size):
 
 
 def main():
-    print("Choice /n 1 For Playlist /2 For Singl Video ")
+    print("1 For Playlist")
+    print("2 For Singl Video ")
     choice = input(":")
 
     if choice == '1':

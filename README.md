@@ -6,8 +6,8 @@ This is a simple Python script for downloading YouTube videos and playlists usin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/jeturgavli/Youtube-Playlist-Downloader.git
+   cd Youtube-Playlist-Downloader
 
 2. Install the required libraries:
     ```bash
@@ -32,7 +32,14 @@ This is a simple Python script for downloading YouTube videos and playlists usin
 - youtube_downloader.py: Main script file.
 
 ## Author
-- [Jetur Gavli](https://www.github.com/jeturgavli)
+
+<div align="left">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/jeturgavli)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jetur_gavli_302)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jetur_gavli_23)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeturgavli1in1@gmail.com) 
+</div>
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
